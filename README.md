@@ -27,6 +27,14 @@ This project implements a **Traffic Light System** using a shared-clock schedule
    - Updates its schedulers based on the received interrupts.
 
 ## Video
-https://github.com/MohamedAbdelbastBakr/Traffic-Light-System/issues/1#issue-2784210276
+
+
+
+
+
+https://github.com/user-attachments/assets/ab6e8adc-e952-42d0-945c-f19bc69664ce
+
   
+
+
 
